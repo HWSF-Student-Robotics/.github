@@ -1,4 +1,4 @@
-# Hello fellow competition!
+# No Snooping!
 
 ### Welcome to the HWSF-Student-Robotics orginisation which hosts the repositories of HWSF Student Robotics 2022-2023.
 
