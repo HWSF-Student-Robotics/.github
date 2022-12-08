@@ -1,4 +1,7 @@
-# Are you Snooping?
+# Team HWM
 
-### Welcome to the HWSF-Student-Robotics orginisation which hosts the repositories of HWSF Student Robotics 2022-2023.
+### Welcome to the HWSF-Student-Robotics organisation which hosts the repositories of HWSF Student Robotics 2022-2023.
 ### This repository right now is private and only accessible to members of the HWSF Robotics team. The repository, however, may be made public after the competition.
+
+### Team HWM on instagram: https://www.instagram.com/hwsf_robotics/
+### The Student Robotics website: https://studentrobotics.org/
